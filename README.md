@@ -31,13 +31,13 @@ Before using the Web Text Editor, ensure that you have the following installed:
 1. Start by cloning this repository to your local machine:
 
 ```
-git clone https://github.com/aakash-sharma-github/Code_Clause_basic_textEditor.git
+git clone https://github.com/aakash-sharma-github/basic_textEditor.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd Code_Clause_basic_textEditor
+cd basic_textEditor
 ```
 
 3. Install the required dependencies:
